@@ -53,9 +53,4 @@ A arquitetura é baseada em microserviços, sendo composta pelos seguintes compo
    ```
 4. Acesse a interface web em `http://localhost:3000` para interagir com o simulador.
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
